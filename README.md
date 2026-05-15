@@ -63,7 +63,7 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| 🔗 [URL Shortener](https://github.com/vanisri137) | Full-stack URL shortening service with collision-free short codes, MongoDB integration & REST APIs | Node.js, Express.js, MongoDB |
+| 🔗 URL Shortener | Full-stack URL shortening service with collision-free short codes, MongoDB integration & REST APIs | Node.js, Express.js, MongoDB |
 | 🎓 Lecture Check — AI Lecture Platform | Full-stack platform with BERT-based NLP for automated content alignment validation across lecture materials | React.js, Node.js, Python, BERT |
 | 📈 E-Commerce Ad Performance Dashboard | Analyzed ad campaigns across Google, Amazon, Instagram & Facebook tracking CTR, ROAS & CPC | Power BI, Excel |
 | 🏦 Bank Loan Analytics Dashboard | SQL + Power BI dashboard tracking loan KPIs, credit risk & borrower segments for business insights | SQL, Power BI, Excel |
