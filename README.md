@@ -1,4 +1,4 @@
-# Hi there, I'm Nandyala Vani 👋
+# Hello people, I'm Nandyala Vani 👋
 
 <div align="center">
 
