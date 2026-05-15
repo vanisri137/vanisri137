@@ -2,9 +2,9 @@
 
 <div align="center">
 
-### 📊 Business Analytics & Software Development Enthusiast
+### 💻 Full Stack Developer & Data Analytics Enthusiast
 
-**Turning Data into Decisions** 💡
+**Building Systems | Turning Data into Decisions** 💡
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandyala-vani)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vanisri137)
@@ -17,18 +17,19 @@
 ## 🙋‍♀️ About Me
 
 - 🎓 Final-year **B.Tech at IIT (BHU), Varanasi**
-- 📊 Passionate about **Ad Analytics, Business Intelligence & Market Strategy**
-- 💻 Experienced in **Full Stack Development & Data-Driven Dashboards**
-- 🚀 Love building solutions that bridge **data and business decisions**
+- 💻 Primarily a **Full Stack Developer** — building scalable backend systems & web apps
+- 📊 Parallel interest in **Data Analytics, Business Intelligence & Ad Performance**
+- 🚀 Love solving problems through both **code and data**
+- 🎯 Exploring opportunities in **SDE & Data Analytics roles**
 - 📍 Based in **Varanasi, Uttar Pradesh, India**
-- 💬 Ask me about **Power BI, SQL, Node.js, React.js, Business Strategy**
+- 💬 Ask me about **DSA, Node.js, React.js, Power BI, SQL, REST APIs**
 - 📧 Reach me at: **nandyala.vani.che22@itbhu.ac.in**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages & Libraries**
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -37,19 +38,21 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Business Intelligence & Visualization**
+**Software Development**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**Data Analytics & Visualization**
 
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
-
-**Software Development**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Tools & Platforms**
 
@@ -64,10 +67,10 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| 📈 [E-Commerce Ad Performance Dashboard](https://github.com/vanisri137) | Analyzed ad campaigns across Google, Amazon, Instagram & Facebook tracking CTR, ROAS & CPC to optimize ad spend efficiency | Power BI, Excel |
-| 📊 Growth Analytics & Market Expansion | Built sales funnel driving ₹2.8L+ revenue, influencing 500+ students via KPI dashboards & campaign analytics | Excel, Power BI, Market Research |
+| 🔗 [URL Shortener](https://github.com/vanisri137) | Full-stack URL shortening service with collision-free short codes, MongoDB integration & REST APIs | Node.js, Express.js, MongoDB |
+| 🎓 Lecture Check — AI Lecture Platform | Full-stack platform with BERT-based NLP for automated content alignment validation across lecture materials | React.js, Node.js, Python, BERT |
+| 📈 E-Commerce Ad Performance Dashboard | Analyzed ad campaigns across Google, Amazon, Instagram & Facebook tracking CTR, ROAS & CPC | Power BI, Excel |
 | 🏦 Bank Loan Analytics Dashboard | SQL + Power BI dashboard tracking loan KPIs, credit risk & borrower segments for business insights | SQL, Power BI, Excel |
-| 🔗 [URL Shortener](https://github.com/vanisri137) | Full-stack URL shortening service with collision-free short codes, server-side validation & MongoDB integration | Node.js, Express.js, MongoDB |
 
 ---
 
@@ -103,6 +106,6 @@
 
 <div align="center">
 
-*"Turning Data into Decisions — one dashboard at a time."* 📊
+*"Building Systems. Turning Data into Decisions."* 💻📊
 
 </div>
