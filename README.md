@@ -8,7 +8,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandyala-vani)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vanisri137)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanis7522@gmail.com)
 
 </div>
 
@@ -22,8 +21,6 @@
 - 🚀 Love solving problems through both **code and data**
 - 🎯 Exploring opportunities in **SDE & Data Analytics roles**
 - 💬 Ask me about **DSA, Node.js, React.js, Power BI, SQL, REST APIs**
-- 📧 Reach me at: **vanis7522@gmail.com**
-
 ---
 
 ## 🛠️ Tech Stack
