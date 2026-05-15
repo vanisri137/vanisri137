@@ -21,7 +21,6 @@
 - 📊 Parallel interest in **Data Analytics, Business Intelligence & Ad Performance**
 - 🚀 Love solving problems through both **code and data**
 - 🎯 Exploring opportunities in **SDE & Data Analytics roles**
-- 📍 Based in **Varanasi, Uttar Pradesh, India**
 - 💬 Ask me about **DSA, Node.js, React.js, Power BI, SQL, REST APIs**
 - 📧 Reach me at: **vanis7522@gmail.com**
 
