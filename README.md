@@ -63,12 +63,11 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| 🔗 URL Shortener | Full-stack URL shortening service with collision-free short codes, MongoDB integration & REST APIs | Node.js, Express.js, MongoDB |
-| 🎓 Lecture Check — AI Lecture Platform | Full-stack platform with BERT-based NLP for automated content alignment validation across lecture materials | React.js, Node.js, Python, BERT |
-| 📈 E-Commerce Ad Performance Dashboard | Analyzed ad campaigns across Google, Amazon, Instagram & Facebook tracking CTR, ROAS & CPC | Power BI, Excel |
-| 🏦 Bank Loan Analytics Dashboard | SQL + Power BI dashboard tracking loan KPIs, credit risk & borrower segments for business insights | SQL, Power BI, Excel |
+| 🔗 [URL Shortener](https://github.com/vanisri137/short-url) | Full-stack URL shortening service with collision-free short codes, MongoDB integration & REST APIs | Node.js, Express.js, MongoDB |
+| 🎓 [Lecture Check — AI Lecture Platform](https://github.com/vanisri137/Lecture_check) | Full-stack platform with BERT-based NLP for automated content alignment validation across lecture materials | React.js, Node.js, Python, BERT |
+| 📈 [E-Commerce Ad Performance Dashboard](https://github.com/MaureenMandy/E-Commerce-Ad-Performance-Dashboard) | Analyzed ad campaigns across Google, Amazon, Instagram & Facebook tracking CTR, ROAS & CPC | Power BI, Excel |
+| 🏦 [Student Resources Analysis](https://github.com/vanisri137/student_resources_analysis) | Python-based analysis of 5,000+ student resource usage records to identify campus utilization trends | Python, SQL, Jupyter |
 
----
 
 ## 💼 Experience & Leadership
 
@@ -90,6 +89,7 @@
 
 ## 📊 GitHub Stats
 
+
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vanisri137&show_icons=true&theme=tokyonight&hide_border=true)
@@ -103,5 +103,6 @@
 <div align="center">
 
 *"Building Systems. Turning Data into Decisions."* 💻📊
+
 
 </div>
